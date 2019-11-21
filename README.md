@@ -1,6 +1,5 @@
 ##How Install##
-
-This New Version 0.1 
+***This New Version 0.1***
 
 Twitter And DarkTwitter Discord Log
 
@@ -16,8 +15,8 @@ Add your webhook in Server.lua
 
 If You Want Specific Discord Channel (One For DarkTwt And One For Normal Twt)
 
-Twitter : Go server.lua line 32 and paste your webhook.
-DarkTwitter : Go server.lua line 67 and paste your webhook. 
+__Twitter__ : Go server.lua line 32 and paste your webhook.
+__DarkTwitter__ : Go server.lua line 67 and paste your webhook. 
 
 __Commands__
 /dw = DarkTwitter
