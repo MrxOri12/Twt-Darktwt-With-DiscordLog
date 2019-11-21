@@ -1,4 +1,5 @@
 ##How Install##
+
 ***This New Version 0.1***
 
 Twitter And DarkTwitter Discord Log
@@ -19,5 +20,7 @@ __Twitter__ : Go server.lua line 32 and paste your webhook.
 __DarkTwitter__ : Go server.lua line 67 and paste your webhook. 
 
 __Commands__
+
 /dw = DarkTwitter
+
 /twt = Twitter
