@@ -25,3 +25,6 @@ __Commands__
 /dw = DarkTwitter
 
 /twt = Twitter
+
+
+Full Credit:https://github.com/ESX-Org/esx_rpchat
