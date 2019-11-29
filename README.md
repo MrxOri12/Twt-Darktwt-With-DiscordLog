@@ -27,4 +27,4 @@ __Commands__
 /twt = Twitter
 
 
-Full Credit:https://github.com/ESX-Org/esx_rpchat
+Full Credit : https://github.com/ESX-Org/esx_rpchat
